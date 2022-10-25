@@ -9,3 +9,11 @@ span.negrita{
 span.pequeña{
     font-size: small;
 }
+
+ul{
+    list-style-type: circle 
+}
+
+ol{
+    list-style-image: url("img/blossom-1529\ \(1\).png");
+}
